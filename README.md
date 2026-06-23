@@ -9,13 +9,13 @@ A comprehensive **Power BI dashboard** built on e-commerce transaction data, pro
 ## 📊 Dashboard Preview
 
 ### Dashboard 1 — Executive Overview
-![Dashboard 1](Dashborad-1__.png)
+![Dashboard](Dashborad-1.png)
 
 ### Dashboard 2 — Demographic & Discount Analysis
-![Dashboard 2](DashBorad-2__.png)
+![Dashboard 2](DashBorad-2.png)
 
 ### Matrix — Product & Customer Rankings
-![Matrix](Matrix___.png)
+![Matrix](Matrix.png)
 
 ---
 
